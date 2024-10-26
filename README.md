@@ -1,5 +1,5 @@
 # Olá! Eu sou o Felipe Skubs 👋
-
+ <br />
 
 ## 🛠️ Languages and Tools
 
@@ -11,9 +11,12 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 </div>
+<br />
 
 ---
 
+ <br />
+ 
 ## 🌱 About Me
 I'm a passionate developer, always exploring new technologies and refining my skills in both front-end and back-end development. Here, you’ll find my latest projects, coding challenges, and more. Let’s connect and collaborate!
 
