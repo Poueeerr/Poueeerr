@@ -1,4 +1,4 @@
-# Olá! Eu sou o **Felipe Skubs Oliveira**, um ***Desenvolvedor Fullstack*** 👋
+# Hello! I am **Felipe Skubs Oliveira**, a ***Fullstack Developer*** 👋
 
 <br />
 
