@@ -1,7 +1,8 @@
-# Olá! Eu sou o Felipe Skubs 👋
- <br />
+# Olá! Eu sou o **Felipe Skubs Oliveira**, um ***Desenvolvedor Fullstack*** 👋
 
-## 🛠️ Languages and Tools
+<br />
+
+## 🛠️ **Languages and Tools**
 
 <div align="center">
   
@@ -13,17 +14,12 @@
 </div>
 <br />
 
----
+## 🌱 **About Me**
+I'm a **passionate developer**, always exploring new technologies and refining my skills in both front-end and back-end development. Here, you’ll find my latest projects, coding challenges, and more. Let’s connect and collaborate!
 
- <br />
- 
-## 🌱 About Me
-I'm a passionate developer, always exploring new technologies and refining my skills in both front-end and back-end development. Here, you’ll find my latest projects, coding challenges, and more. Let’s connect and collaborate!
-
----
 <div align="center">
 
-### Connect with me:
+### **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-skubs-oliveira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.skubs.oliveira@gmail.com)
