@@ -1,4 +1,5 @@
 # Hello! I am **Felipe Skubs Oliveira**, a ***Backend Developer*** 👋
+I'm a **passionate developer**, always exploring new technologies and refining my skills in both front-end and back-end development. Here, you’ll find my latest projects, coding challenges, and more. Let’s connect and collaborate!
 
 <br />
 
@@ -11,11 +12,9 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
+![Poueeerr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poueeerr&show_icons=true&theme=radical&count_private=true&hide_border=true)
 </div>
 <br />
-
-## 🌱 **About Me**
-I'm a **passionate developer**, always exploring new technologies and refining my skills in both front-end and back-end development. Here, you’ll find my latest projects, coding challenges, and more. Let’s connect and collaborate!
 
 <div align="center">
 
